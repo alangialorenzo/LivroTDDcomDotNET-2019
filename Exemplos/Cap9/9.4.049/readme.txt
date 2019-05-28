@@ -1,0 +1,1 @@
+Refatoração com foco no Encapsulamento.
