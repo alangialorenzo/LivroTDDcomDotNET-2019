@@ -1,0 +1,1 @@
+Mais um teste é escrito e mais uma vez o algoritmo da implementação é modificado de modo que tanto o novo teste quanto os anteriores passem.
