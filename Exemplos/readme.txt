@@ -1,0 +1,1 @@
+Códigos criados/testados no Visual Studio 2019 (.NET Core 2.1)
