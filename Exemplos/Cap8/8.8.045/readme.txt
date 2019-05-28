@@ -1,0 +1,1 @@
+Realiza a implementação concreta para a nova regra de negócio.
