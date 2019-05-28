@@ -1,0 +1,2 @@
+﻿Modificação:
+Refatoração do código.
