@@ -1,0 +1,1 @@
+Primeiro teste e implementação mais simples possível para que o teste passe.

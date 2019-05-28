@@ -1,0 +1,1 @@
+Segundo teste e implementação mais simples possível para que os testes passem.
